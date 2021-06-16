@@ -1,0 +1,30 @@
+<style type="text/css">
+     	span{
+     		color: rgb(10,91,238);
+     		font-weight: bold;
+     		font-style: italic;
+     	}
+     	img{
+     		float: left;
+            margin-right: 5px;
+            width: 20%
+          
+     		
+
+     	}
+        #om{
+            text-align: left;
+            position: relative;
+        }
+        body{
+            background-color: rgb(163, 228, 215);
+
+        }
+        p{
+            font-size: 25px;
+            font-style: "italic";
+            color: rgb(136,3,13);
+        }
+
+
+     </style>
